@@ -2,6 +2,10 @@
  * Application "Calculs" v01 (b5 a218)
  * author : Emds
  * date : 24/05/2020
+ * - Utilisez le débogueur de l'IDE et réalisez une exécution pas à pas pour mieux cerner l'origine des dysfonctionnements.
+ * - Apportez les corrections nécessaires pour corriger les dysfonctionnements et obtenir les résultats attendus.
+ * - Compléter le rapport d'incidents (téléchargeable ici), en expliquant l'origine des dysfonctionnements et les corrections apportées (extrait du rapport d'incidents ci-contre). Votre responsable vous a aussi demandé de présenter les différents possibilités de correcitons, lorsqu'il y en avait plusieurs et, dans ce cas, de justifier le choix effectué (la solution retenue). Les informations seront mémiorisées dans une banque de données, dans le cas où le même type de dysfonctionnement apparaîtrait dans d'autres tickets d'incidents.
+ * - Rendre au client le projet corrigé et le rapport d'incidents complété (étape fictive) : le ticket d'incident est clôturé.
  */
 using System;
 
